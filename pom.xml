@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
 
-    <groupId>ru.bellintegrator</groupId>
-    <artifactId>practice</artifactId>
-    <version>0.0.1</version>
+    <groupId>ru.training</groupId>
+    <artifactId>iamthebeststudent</artifactId>
+    <version>0.0.69</version>
     <packaging>jar</packaging>
 
     <name>Practice</name>
